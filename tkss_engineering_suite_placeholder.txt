@@ -1,0 +1,1 @@
+This is a project scaffold, not a working X4 mod yet.
