@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<mdscript name="tkss_engineering_suite">
+<mdscript xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          name="tkss_engineering_suite"
+          xsi:noNamespaceSchemaLocation="md.xsd">
+  <cues>
+    <cue name="tkss_init" instantiate="true">
+      <conditions>
+        <event_game_loaded/>
+      </conditions>
+      <actions>
+        <debug_text text="'TKSS Engineering Suite loaded'" chance="100"/>
+      </actions>
+    </cue>
+  </cues>
 </mdscript>
