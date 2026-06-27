@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="tkss.engineeringsuite"
+         name="TKSS Engineering Suite"
+         description="Empire management tools for X4."
+         version="0001"
+         author="Neff Ngatai"
+         date="2026-06-27"
+         save="1">
+</content>
